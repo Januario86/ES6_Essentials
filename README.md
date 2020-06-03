@@ -1,4 +1,4 @@
-# ES¨6_Essentials
+# ES6_Essentials
 
 ## Tecnologias utilizadas
 
